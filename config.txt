@@ -1,7 +1,7 @@
-﻿token = 
-owner = 
-prefix = 
-game = "DEFAULT"
+token = NTk3ODk3NTU0MTIxODUwODgw.XSOxgg.3Yh4Ow5llFw4cmCpJuU2MLgEFDI
+owner = 431636432185065482
+prefix = k
+game = Streaming
 status = ONLINE
 songinstatus=false
 altprefix = "NONE"
